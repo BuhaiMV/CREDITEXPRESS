@@ -14,7 +14,9 @@ UI test for creditexpress
 
 2.Install the latest version of Python from (https://www.python.org/downloads/)
 
-3.Clone project
+3.Install the Java 8+ from (https://www.oracle.com/java/technologies/downloads/)
+
+4.Clone project
 `git clone `
 
 ## In project root directory run
